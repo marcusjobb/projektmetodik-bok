@@ -25,3 +25,13 @@ Hitta det du söker, förstå det, gå tillbaka till teamet.
 | Ordlista | Alla termer samlade för snabbslagning |
 
 Använd sökfunktionen (överst till höger) eller menyn till vänster.
+
+---
+
+## Om boken
+
+Boken skapades för att ge studerande ett ställe att gå tillbaka till — när man glömt vad en Sprint Review är, när kunden frågar om Kanban vs Scrum, eller när man bara behöver ha begreppen på plats.
+
+Den uppdateras löpande. Hittar du ett fel, saknar en förklaring, eller har ett bättre exempel från verkligheten? Hör av dig — på Discord, via skolans mail, eller öppna ett issue direkt på [GitHub](https://github.com/marcusjobb/projektmetodik-bok).
+
+/Marcus
