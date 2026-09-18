@@ -1,5 +1,6 @@
 ---
 title: V-modellen
+description: "V-modellen i Vattenfallsmodellen — Projektmetodik av Marcus Ackre Medina"
 parent: Vattenfallsmodellen
 nav_order: 20
 ---

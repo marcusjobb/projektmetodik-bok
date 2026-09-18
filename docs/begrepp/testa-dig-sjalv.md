@@ -1,5 +1,6 @@
 ---
 title: Testa dig själv
+description: "Testa dig själv i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
 parent: Begrepp & artefakter
 nav_order: 99
 ---

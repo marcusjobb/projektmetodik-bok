@@ -1,5 +1,6 @@
 ---
 title: Backlog och Sprint
+description: "Backlog och Sprint i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
 parent: Begrepp & artefakter
 nav_order: 10
 ---

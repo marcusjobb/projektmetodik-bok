@@ -1,5 +1,6 @@
 ---
 title: Projektmetodik
+description: "Projektmetodik — Projektmetodik av Marcus Ackre Medina"
 layout: home
 nav_order: 1
 has_children: true

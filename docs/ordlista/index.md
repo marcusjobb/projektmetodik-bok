@@ -1,5 +1,6 @@
 ---
 title: Ordlista
+description: "Ordlista — Projektmetodik av Marcus Ackre Medina"
 layout: default
 nav_order: 40
 has_children: true

@@ -1,5 +1,6 @@
 ---
 title: Vattenfallsmodellen
+description: "Vattenfallsmodellen i Vattenfallsmodellen — Projektmetodik av Marcus Ackre Medina"
 parent: Vattenfallsmodellen
 nav_order: 10
 ---

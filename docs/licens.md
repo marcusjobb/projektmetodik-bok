@@ -1,5 +1,6 @@
 ---
 title: Licens
+description: "Licens — Projektmetodik av Marcus Ackre Medina"
 nav_order: 999
 ---
 # Licens

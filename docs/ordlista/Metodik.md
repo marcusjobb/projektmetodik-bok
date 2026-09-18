@@ -1,5 +1,6 @@
 ---
 title: Metodik
+description: "Metodik i Ordlista — Projektmetodik av Marcus Ackre Medina"
 layout: default
 parent: Ordlista
 nav_order: 10

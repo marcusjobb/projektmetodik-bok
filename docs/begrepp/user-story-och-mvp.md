@@ -1,5 +1,6 @@
 ---
 title: User story och MVP
+description: "User story och MVP i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
 parent: Begrepp & artefakter
 nav_order: 20
 ---

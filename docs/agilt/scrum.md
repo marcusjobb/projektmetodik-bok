@@ -1,5 +1,6 @@
 ---
 title: Scrum
+description: "Scrum i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
 parent: Agilt & Scrum
 nav_order: 10
 ---

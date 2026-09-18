@@ -1,5 +1,6 @@
 ---
 title: Begrepp & artefakter
+description: "Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
 nav_order: 30
 has_children: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: Kanban
+description: "Kanban i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
 parent: Agilt & Scrum
 nav_order: 20
 ---

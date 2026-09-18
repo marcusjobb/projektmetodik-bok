@@ -1,5 +1,6 @@
 ---
 title: Test-pyramiden
+description: "Test-pyramiden i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
 parent: Begrepp & artefakter
 nav_order: 30
 ---

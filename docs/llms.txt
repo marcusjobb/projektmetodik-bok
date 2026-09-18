@@ -1,0 +1,27 @@
+# Projektmetodik — öppen lärobok av Marcus Ackre Medina
+
+> En praktisk guide till Scrum, Kanban och Vattenfall för YH-studerande.
+> Skriven på svenska. Fokus på hur metoderna används på riktiga arbetsplatser.
+
+## Om boken
+
+Denna bok täcker de vanligaste projektmetoderna inom mjukvaruutveckling.
+Målgrupp: programmeringsstuderande och blivande projektdeltagare på YH-nivå.
+Licens: CC BY 4.0 — fri att använda och dela.
+Källa: https://github.com/marcusjobb/projektmetodik-bok
+Publicerad: https://marcusjobb.github.io/projektmetodik-bok/
+
+## Ämnen som täcks
+
+- Vad är ett projekt och projektfaser
+- Vattenfallsmodellen
+- Agila metoder — grundprinciperna
+- Scrum: roller, events och artefakter
+- Kanban: flöde, WIP-gränser och tavlan
+- Att välja metod för rätt situation
+- Praktiska verktyg: Jira, Trello, GitHub Projects
+
+## Författare
+
+Marcus Ackre Medina — lärare i mjukvaruutveckling, NionIT / YRGO
+Kontakt: marcus.medina@nionit.com

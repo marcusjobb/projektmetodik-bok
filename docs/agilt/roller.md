@@ -1,5 +1,6 @@
 ---
 title: Roller
+description: "Roller i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
 parent: Agilt & Scrum
 nav_order: 30
 ---
