@@ -8,9 +8,10 @@ has_children: true
 
 # Projektmetodik av Marcus A.M.
 
-En praktisk genomgång av hur mjukvaruteam faktiskt planerar och styr sitt arbete — agila metoder, traditionell projektstyrning och begreppen som binder ihop dem.
+{: .important }
+**Det här är inte en kurs.** Det är ett uppslagsverk. Du förväntas inte läsa det från början till slut — du använder det när du glömt vad en Sprint Review är, när du undrar vad skillnaden mellan Scrum och Kanban egentligen är, eller när du ska förklara något för en kund.
 
-Skriven för studerande på Yrkeshögskola men användbar för alla som vill förstå hur team jobbar.
+Hitta det du söker, förstå det, gå tillbaka till teamet.
 
 ---
 
@@ -23,4 +24,4 @@ Skriven för studerande på Yrkeshögskola men användbar för alla som vill fö
 | Begrepp & artefakter | Backlog, user stories, MVP, test-pyramiden |
 | Ordlista | Alla termer samlade för snabbslagning |
 
-Navigera med menyn till vänster — avsnitten är ordnade i inlärningsordning.
+Använd sökfunktionen (överst till höger) eller menyn till vänster.
