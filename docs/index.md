@@ -1,6 +1,6 @@
 ---
 title: Projektmetodik
-description: "Projektmetodik — Projektmetodik av Marcus Ackre Medina"
+description: "Det här är inte en kurs. Det är ett uppslagsverk. Du förväntas inte läsa det från början till slut — du använder det när du glömt vad en Sprint Review är…"
 layout: home
 nav_order: 1
 has_children: true

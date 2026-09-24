@@ -1,6 +1,6 @@
 ---
 title: Backlog och Sprint
-description: "Backlog och Sprint i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
+description: "En prioriterad lista över allt som återstår att göra i ett projekt — nya funktioner, buggar, tekniska förbättringar. Den ägs av Product Owner och är…"
 parent: Begrepp & artefakter
 nav_order: 10
 ---

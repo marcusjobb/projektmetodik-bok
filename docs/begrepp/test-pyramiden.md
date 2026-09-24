@@ -1,6 +1,6 @@
 ---
 title: Test-pyramiden
-description: "Test-pyramiden i Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
+description: "En modell för hur testerna i ett projekt bör fördelas mellan olika nivåer — flest tester längst ner, färst längst upp."
 parent: Begrepp & artefakter
 nav_order: 30
 ---

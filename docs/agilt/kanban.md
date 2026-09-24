@@ -1,6 +1,6 @@
 ---
 title: Kanban
-description: "Kanban i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
+description: "Kanban är, till skillnad från Scrum, inte tidsboxat i sprintar. Istället visualiserar man arbetsflödet på en tavla med kolumner — och begränsar hur mycket…"
 parent: Agilt & Scrum
 nav_order: 20
 ---

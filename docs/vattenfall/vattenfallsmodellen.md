@@ -1,6 +1,6 @@
 ---
 title: Vattenfallsmodellen
-description: "Vattenfallsmodellen i Vattenfallsmodellen — Projektmetodik av Marcus Ackre Medina"
+description: "Projektet delas in i sekventiella faser. Varje fas slutförs helt — med godkännande — innan nästa påbörjas. Det finns ingen återgång utan att formellt…"
 parent: Vattenfallsmodellen
 nav_order: 10
 ---

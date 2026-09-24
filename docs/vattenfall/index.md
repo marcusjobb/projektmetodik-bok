@@ -1,6 +1,6 @@
 ---
 title: Vattenfallsmodellen
-description: "Vattenfallsmodellen — Projektmetodik av Marcus Ackre Medina"
+description: "Innan agila metoder blev standard planerades de flesta projekt enligt vattenfallsmodellen — en linjär process där varje fas slutförs helt innan nästa…"
 nav_order: 20
 has_children: true
 ---

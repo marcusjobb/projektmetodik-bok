@@ -1,6 +1,6 @@
 ---
 title: V-modellen
-description: "V-modellen i Vattenfallsmodellen — Projektmetodik av Marcus Ackre Medina"
+description: "V-modellen är en variant av vattenfallsmodellen som gör en sak annorlunda: varje utvecklingsfas kopplas explicit till en motsvarande testfas. Ritad ger…"
 parent: Vattenfallsmodellen
 nav_order: 20
 ---

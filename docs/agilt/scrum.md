@@ -1,6 +1,6 @@
 ---
 title: Scrum
-description: "Scrum i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
+description: "Ett traditionellt projekt planeras i förväg — hela vägen till leverans. Problemet: kraven ändras, kunden vet inte exakt vad de vill ha förrän de ser…"
 parent: Agilt & Scrum
 nav_order: 10
 ---

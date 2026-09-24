@@ -1,6 +1,6 @@
 ---
 title: Ordlista
-description: "Ordlista — Projektmetodik av Marcus Ackre Medina"
+description: "Alla termer från boken samlade på ett ställe, för snabbslagning."
 layout: default
 nav_order: 40
 has_children: true

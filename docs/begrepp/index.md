@@ -1,6 +1,6 @@
 ---
 title: Begrepp & artefakter
-description: "Begrepp & artefakter — Projektmetodik av Marcus Ackre Medina"
+description: "Byggstenarna som används oavsett om teamet kör Scrum, Kanban eller något eget hopplock — backlog, user stories, MVP och hur man tänker kring testning."
 nav_order: 30
 has_children: true
 ---

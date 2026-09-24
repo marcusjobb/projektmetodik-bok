@@ -1,6 +1,6 @@
 ---
 title: Agilt & Scrum
-description: "Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
+description: "Agilt arbetssätt bygger på korta iterationer, kontinuerlig feedback och förändringsbenägenhet — istället för att planera hela projektet i förväg. Scrum…"
 nav_order: 10
 has_children: true
 ---

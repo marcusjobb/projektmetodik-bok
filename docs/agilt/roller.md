@@ -1,6 +1,6 @@
 ---
 title: Roller
-description: "Roller i Agilt & Scrum — Projektmetodik av Marcus Ackre Medina"
+description: "Faciliterar Scrum-processen — håller i ceremonier (Sprint Planning, Daily Scrum, Sprint Review, Retrospektiv) och undanröjer praktiska hinder för teamet…"
 parent: Agilt & Scrum
 nav_order: 30
 ---
