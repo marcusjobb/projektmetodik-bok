@@ -1,3 +1,6 @@
 
 docs/vendor/
 docs/.bundle/
+node_modules/
+site/dist/
+site/.astro/
