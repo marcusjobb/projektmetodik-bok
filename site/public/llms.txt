@@ -1,0 +1,26 @@
+# Projektmetodik — öppen referensbok av Marcus Ackre Medina
+
+> Ett uppslagsverk för agil projektmetodik, skrivet på svenska för YH-studerande och yrkesverksamma.
+> Inte en kurs — en referens du öppnar när du glömt vad en Sprint Review är eller vill förklara Kanban för en kund.
+
+## Om boken
+
+Boken täcker agila metoder, Scrum, Kanban och grundläggande projektledning.
+Målgrupp: programmeringsstuderande och juniora teammedlemmar på YH-nivå.
+Licens: CC BY 4.0 — fri att använda och dela.
+Källa: https://github.com/marcusjobb/projektmetodik-bok
+Publicerad: https://marcusjobb.github.io/projektmetodik-bok/
+
+## Ämnen som täcks
+
+- Agilt manifest och principer
+- Scrum — roller, ceremonier, artefakter
+- Kanban — flöde, WIP-gränser, visualisering
+- Projektledning — planering, estimering, risker
+- Teamdynamik och kommunikation
+- Begrepp och terminologi inom mjukvaruprojekt
+
+## Författare
+
+Marcus Ackre Medina — lärare i mjukvaruutveckling, NionIT / YRGO
+Kontakt: marcus.medina@nionit.com
