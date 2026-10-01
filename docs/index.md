@@ -22,6 +22,7 @@ Hitta det du söker, förstå det, gå tillbaka till teamet.
 | Agilt & Scrum | Sprintar, roller, ceremonier, Kanban |
 | Vattenfallsmodellen | Traditionell projektstyrning, V-modellen |
 | Begrepp & artefakter | Backlog, user stories, MVP, test-pyramiden |
+| Diagram & analysverktyg | Processkartor, tidsplaner, SWOT, prioriteringsmatriser, 5 Varför, grafer |
 | Ordlista | Alla termer samlade för snabbslagning |
 
 Använd sökfunktionen (överst till höger) eller menyn till vänster.

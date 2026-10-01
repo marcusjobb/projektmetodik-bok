@@ -19,6 +19,7 @@ Publicerad: https://marcusjobb.github.io/projektmetodik-bok/
 - Projektledning — planering, estimering, risker
 - Teamdynamik och kommunikation
 - Begrepp och terminologi inom mjukvaruprojekt
+- Diagram och analysverktyg — BPMN, kundresa, Gantt, SWOT, Eisenhower, 5 Varför, SMART, retro
 
 ## Författare
 

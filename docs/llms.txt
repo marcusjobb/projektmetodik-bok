@@ -19,6 +19,7 @@ Publicerad: https://marcusjobb.github.io/projektmetodik-bok/
 - Scrum: roller, events och artefakter
 - Kanban: flöde, WIP-gränser och tavlan
 - Att välja metod för rätt situation
+- Diagram och analysverktyg: BPMN, kundresa, Gantt, SWOT, Eisenhower, 5 Varför, SMART, retro
 - Praktiska verktyg: Jira, Trello, GitHub Projects
 
 ## Författare
