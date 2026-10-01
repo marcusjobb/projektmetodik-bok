@@ -13,20 +13,20 @@ V-modellen är en variant av vattenfallsmodellen som gör en sak annorlunda: var
 
 ```mermaid
 flowchart LR
-    subgraph Vänster sida — nedåt
+    subgraph V["Vänster sida — nedåt"]
     A[Kravanalys] --> B[Systemdesign]
     B --> C[Detaljdesign]
     end
     C --> D[Implementation]
-    subgraph Höger sida — uppåt
+    subgraph H2["Höger sida — uppåt"]
     E[Enhetstest] --> F[Integrationstest]
     F --> G[Systemtest]
     G --> H[Acceptanstest]
     end
     D --> E
-    A -.motsvarar.- H
-    B -.motsvarar.- G
-    C -.motsvarar.- F
+    A -. motsvarar .- H
+    B -. motsvarar .- G
+    C -. motsvarar .- F
 ```
 
 ## Varje fas har sin testmotsvarighet
