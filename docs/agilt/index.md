@@ -14,3 +14,4 @@ Agilt arbetssätt bygger på korta iterationer, kontinuerlig feedback och förä
 | Scrum | Sprintar, roller, ceremonier |
 | Kanban | Visualisera arbetsflödet på en tavla |
 | Roller | Scrum Master, Product Owner |
+| MoSCoW | Prioritera krav — Must, Should, Could, Won't |
