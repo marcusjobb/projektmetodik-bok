@@ -10,7 +10,7 @@ Fler kostnadsfria studieböcker i samma format:
 - **[Azure och moln i C#](https://marcusjobb.github.io/azure-studiebok/)** — administrera molnlösningar, Bicep/IaC, CI/CD och API-dokumentation (Scalar/Swagger).
 - **[C# bok — Programmering i C#](https://marcusjobb.github.io/programmering-csharp/)** — från grunderna till OOP, datastrukturer, filhantering, SQL/EF, API:er och asynkron programmering.
 - **[Git](https://marcusjobb.github.io/git-bok/)** — grunder, konflikter och branching-strategier (Git Flow, GitHub Flow, Trunk-based).
-- **[Java](https://marcusjobb.github.io/java-bok/)** — Java-programmering för YH-studerande.
+- **[Java](https://marcusjobb.github.io/programmering-java/)** — Java-programmering för YH-studerande.
 - **[Usborne Revival](https://marcusjobb.github.io/UsborneBooks/)** — retro-kodning i BASIC — klassiska Usborne-böcker från 1980-talet moderniserade. För nybörjare som vill leka med kod i 80-talsstil.
 
 Samma licens gäller för alla böckerna — se [Licens](licens.md).
